@@ -4,4 +4,6 @@
 </p>
 <hr>
 
-Biblioteca de templates HTML pré-definidos desenvolvidos com SCSS(Inclui CSS) e JS(JavaScript)
+<p align="center">
+Biblioteca de templates HTML desenvolvidos por Vinicius da Silva Viana (VSV) com SCSS (Inclui CSS) e JS (JavaScript)
+</p>
